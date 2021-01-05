@@ -28,7 +28,7 @@ Since classic keyboards have limitations (it's not possible to have all possible
 | Ж ж       | Ƶ ƶ   | ج ج           | Zh zh                  |
 | З з       | Z z   | ز ز           | Z z                    |
 | И и       | I i   | ێ ێ           | I i                    |
-| Й й       | j j   | ي ي           | Y y                    |
+| Й й       | J j   | ي ي           | Y y                    |
 | К к       | K k   | ك ك           | K k                    |
 | Къ къ     | Ꝗ ꝗ   | ق ق           | Q q                    |
 | Кь кь     | Ꝗ ꝗ   | ڨ ڨ           | Ql ql                  |
@@ -76,8 +76,8 @@ Since classic keyboards have limitations (it's not possible to have all possible
 
 
 ### Issues and Limitations
-* Main issue is wide multigraph usage. (Four- and even six-graphs, instead of standard arabic symbols: ض, ڃّ).
-* Wide usage of [Backtick](https://en.wikipedia.org/wiki/Grave_accent#Use_in_programming) symbol, as alone and in multigraphs as well.
+* Main issue is wide multigraph usage. (tetragraphs and even hexagraphs (!?), instead of standard arabic symbols: ض, ڃّ).
+* Wide usage of [Backtick](https://en.wikipedia.org/wiki/Grave_accent) symbol, as alone and in multigraphs as well.
 * Several exceptional words which couldn't be processed (spelled and pronounced), using proposed lang. However most of them are loanwords, not the original ones.
 * Pronunciation isn't straightforward with arabic speech sounds: q, qh, ql, tl, gh, etc.
 * X and W symbols are not used at all.
