@@ -77,7 +77,7 @@ Since classic keyboards have limitations (it's not possible to have all possible
 
 ### Issues and Limitations
 * Main issue is wide multigraph usage. (tetragraphs and even hexagraphs (!?), instead of standard arabic symbols: ض, ڃّ).
-* Wide usage of [Backtick](https://en.wikipedia.org/wiki/Grave_accent) symbol, as alone and in multigraphs as well.
+* Wide usage of [Backtick](https://en.wikipedia.org/wiki/Grave_accent) symbol, as alone and in multigraphs as well. Probably for some letters may consider j, like kj instead of k', and tj instead of t'.
 * Several exceptional words which couldn't be processed (spelled and pronounced), using proposed lang. However most of them are loanwords, not the original ones.
 * Pronunciation isn't straightforward with arabic speech sounds: q, qh, ql, tl, gh, etc.
 * J, X and W symbols are not used at all. (This may be helpful to resolve the first and maybe second issue though)
