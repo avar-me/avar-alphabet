@@ -86,3 +86,15 @@ List of discovered words exceptions in exceptions file.
 
 ### Words
 List of words with different forms downloaded from [avar.me](http://avar.me) in words.txt file.
+
+### Conversion tools
+transliterate.py - contains following functions:
+* cyr2latin - Cyrillic to Latin (modern)
+* cyr2ajam - Cyrillic to Ajam
+* cyr2latin0 - Cyrillic to Latin
+* latin2latin - Old Latin to the modern one
+* normalize_request - convertor to replace all non-standard Palochka symbols like 1, I, i, l, with the proper char
+
+Dictionaries for these functions are stored in dicts.py.
+
+Script's main function reads cyrillic word from stdin and prints all conversions to stdout separated by colon. Feel free to write your own 😀
