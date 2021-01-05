@@ -80,7 +80,7 @@ Since classic keyboards have limitations (it's not possible to have all possible
 * Wide usage of [Backtick](https://en.wikipedia.org/wiki/Grave_accent) symbol, as alone and in multigraphs as well.
 * Several exceptional words which couldn't be processed (spelled and pronounced), using proposed lang. However most of them are loanwords, not the original ones.
 * Pronunciation isn't straightforward with arabic speech sounds: q, qh, ql, tl, gh, etc.
-* X and W symbols are not used at all.
+* J, X and W symbols are not used at all. (This may be helpful to resolve the first and maybe second issue though)
 
 List of discovered words exceptions in exceptions file.
 
