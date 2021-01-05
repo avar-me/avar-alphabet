@@ -24,7 +24,7 @@ Since classic keyboards have limitations (it's not possible to have all possible
 | Гӏ гӏ     | ⱨ ⱨ   | ع ع           | Gh gh                  |
 | Д д       | D d   | د د           | D d                    |
 | Е е       | E e   | ې ې           | E e                    |
-| Ё ё       | ???   | ???           | ???                    |
+| Ё ё       | Jo jo | يۈ يۈ         | Yo yo                  |
 | Ж ж       | ƶ ƶ   | ج ج           | Zh zh                  |
 | З з       | Z z   | ز ز           | Z z                    |
 | И и       | I i   | ێ ێ           | I i                    |
@@ -80,5 +80,9 @@ Since classic keyboards have limitations (it's not possible to have all possible
 * Wide usage of [Backtick](https://en.wikipedia.org/wiki/Grave_accent#Use_in_programming) symbol, as alone and in multigraphs as well.
 * Several exceptional words which couldn't be processed (spelled and pronounced), using proposed lang. However most of them are loanwords, not the original ones.
 * Pronunciation isn't straightforward with arabic speech sounds: q, qh, ql, tl, gh, etc.
+* X and W symbols are not used at all.
 
 List of discovered words exceptions in exceptions file.
+
+### Words
+List of words with different forms downloaded from [avar.me](http://avar.me) in words.txt file.
