@@ -5,10 +5,10 @@ Different alphabets for avar language and conversion tools.
 Historically Arabic alphabet was used for writing in Avar language. [Ajam](https://en.wikipedia.org/wiki/Ajami_script)
 
 #### Cyryllic
-In 20th century it was switched to [Cyryllic](https://en.wikipedia.org/wiki/Cyrillic_script). [Palochka](https://en.wikipedia.org/wiki/Palochka), [Hard sign](https://en.wikipedia.org/wiki/Hard_sign) and [Soft Sign](https://en.wikipedia.org/wiki/Soft_sign) are used to be combined in [Digrapths](https://en.wikipedia.org/wiki/Digraph_(orthography)) with other letters.
+In 20th century it was switched to [Cyryllic](https://en.wikipedia.org/wiki/Cyrillic_script). [Palochka](https://en.wikipedia.org/wiki/Palochka), [Hard sign](https://en.wikipedia.org/wiki/Hard_sign) and [Soft Sign](https://en.wikipedia.org/wiki/Soft_sign) are used to be combined in [Digraphs](https://en.wikipedia.org/wiki/Digraph_(orthography)) with other letters.
 
 #### Latin
-According to wikipedia Avar language article [Avar latin alipba](https://av.wikipedia.org/wiki/Авар_хъвай-хъвагІи#Латин_алипба_(1928–1938_сонал)) [Latin](https://en.wikipedia.org/wiki/Latin_script) alphabet was used in the middle of 20th century, with lots of non-standart latin symbols (instead of digraphs where possible) (ç, ƣ, ħ, ⱨ, ⱪ, ꝗ, ş, ꞩ, ⱬ, ƶ, etc.).
+According to wikipedia Avar language article "[Avar latin alipba](https://av.wikipedia.org/wiki/Авар_хъвай-хъвагІи#Латин_алипба_(1928–1938_сонал))" [Latin](https://en.wikipedia.org/wiki/Latin_script) alphabet was used in the middle of 20th century, with lots of non-standart latin symbols (instead of digraphs where possible) (ç, ƣ, ħ, ⱨ, ⱪ, ꝗ, ş, ꞩ, ⱬ, ƶ, etc.).
 
 #### Latin Modern
 Since classic keyboards have limitations (it's not possible to have all possible standard and non-standard symbols on 104 keys keyboard layout), there is a requirement to simplify old-style Latin script. Here is the proposal of modern Latin script:
